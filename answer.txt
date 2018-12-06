@@ -1,0 +1,8 @@
+wcf adaavantage to webapi
+
+advantage
+-you only have make one a server and every client can  connect
+-you dont have to make for each applikcat a client webapi for get, post, put, del
+
+disadvantage
+-harder to understand
